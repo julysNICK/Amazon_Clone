@@ -1,0 +1,30 @@
+
+.search_Product{
+    display: flex;
+   padding: 20px;
+  
+}
+.category_section{
+    border-right: 2px solid lightgray;
+    padding-right: 12px;
+
+}
+.single_product{
+    display: flex;
+    width: 310px;
+    z-index: 1;
+    height: 400px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.single_product > img {
+ width: 210px;
+}
+.product_section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
