@@ -1,14 +1,14 @@
 # Amazon-Clone
 ## Descrição do Projeto
 
-<p align="center">O projeto da amazon clone foi feito com intuito de colocar em pratica os conhecimentos das tecnologias node e react js</p
+<p align="center">O projeto da amazon clone foi feito com intuito de colocar em prática os conhecimentos das tecnologias node e react js</p
  <h4 align="center"> 
 	✅  Amazon-Clone 🚀 Concluido...  ✅
  </h4>
  
  <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Tabela de conteudos</summary>
+  <summary>Tabela de conteúdos</summary>
   <ol>
     <li>
       <a href="#Sobre-o-projeto">Sobre o projeto</a>
@@ -19,11 +19,11 @@
     <li>
       <a href="#Começando">Começando</a>
       <ul>
-        <li><a href="#Pré-requisito">Pre-requisito</a></li>
-        <li><a href="#Instalação">instalaçao</a></li>
+        <li><a href="#Pré-requisito">Pré-requisito</a></li>
+        <li><a href="#Instalação">instalação</a></li>
       </ul>
     </li>
-    <li><a href="#Demonstraçao">Demostração</a></li>
+    <li><a href="#Demonstração">Demonstração</a></li>
     <li><a href="#license">Licença</a></li>
     <li><a href="#Features">Contato</a></li>
   </ol>
@@ -31,22 +31,22 @@
 
 ## Sobre o projeto
 
-O projeto como dito lá em cima foi feito com intuito de colocar em pratica os meus conhecimentos sobre react(javascript) e nodejs(javascript) nesse projeto voce vai obsevar os seguintes topicos na sua criaçao:
+O projeto como dito lá em cima foi feito com intuito de colocar em prática os meus conhecimentos sobre react(javascript) e node js(javascript) nesse projeto você vai observar os seguintes tópicos na sua criação:
 
 React js	
 
 * redux 
-* componentizaçao 
-* hooks(useState,useEfect,usecallback e etc)
+* componentização 
+* hooks(useState,useEfect,use callback e etc)
 * context api
 * uso do stripe
 * etc.
 
 Node js
 
-* compotinazaçao 
+* componentização 
 * banco de dados relacional 
-* Autenticaçao jwt
+* Autenticação jwt
 * uso do consign
 * etc.
 
@@ -54,7 +54,7 @@ Node js
 
 - [x] Cadastro de usuário
 
-- [x] Login de usuario
+- [x] Login de usuário
 
 - [x] Carrinho de compra
 
@@ -68,11 +68,11 @@ Node js
 
 ## Começando
   
-  Siga as instruçao abaixo para que consiga configurar o projeto localmente com a opçao de clonar.
+  Siga as instruções abaixo para que consiga configurar o projeto localmente com a opção de clonar.
 
 ### Pré-requisito
 
-Para configurar o projeto o pre requisito é possui instalado o node js e react js depois rode o comando abaixo 
+Para configurar o projeto o pré-requisito é possuir instalado o node js e react js depois rode o comando abaixo 
 * npm
   ```sh
   npm install npm@latest -g
@@ -92,12 +92,12 @@ Para configurar o projeto o pre requisito é possui instalado o node js e react 
 
 ### Tecnologias
 
-Essa aplicaçao foi construida com as seguintes tecnologias:
+Essa aplicação foi construída com as seguintes tecnologias:
 * [Javascript]()
 * [Reactjs](https://pt-br.reactjs.org/)
 * [Node](https://nodejs.org/en/)
 
-## Demonstraçao
+## Demonstração
 
 Home.js
 
@@ -118,3 +118,5 @@ Pagamento.js
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+
