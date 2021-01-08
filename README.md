@@ -24,8 +24,7 @@
       </ul>
     </li>
     <li><a href="#Demonstração">Demonstração</a></li>
-    <li><a href="#license">Licença</a></li>
-    <li><a href="#Features">Contato</a></li>
+    <li><a href="#Contato">Contato</a></li>
   </ol>
 </details>
 
@@ -115,10 +114,6 @@ Pagamento.js
 
 ![](/img/React-App-Opera-2021-01-03-19-30-32.gif)
 <!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 <!-- CONTACT -->
 ## Contato
