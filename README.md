@@ -28,7 +28,7 @@
   </ol>
 </details>
 
-##Sobre o projeto
+## Sobre o projeto
 
 O projeto como dito lá em cima foi feito com intuito de colocar em prática os meus conhecimentos sobre react(javascript) e node js(javascript) nesse projeto você vai observar os seguintes tópicos na sua criação:
 
