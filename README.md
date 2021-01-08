@@ -67,11 +67,11 @@ Node js
 
 ## ✅ Começando
   
-  Siga as instruções abaixo para que consiga configurar o projeto localmente com a opção de clonar.
+  Siga as instruções abaixo para que consiga configurar o projeto localmente.
 
 ### ✅ Pré-requisito
 
-Para configurar o projeto o pré-requisito é possuir instalado o node js e react js depois rode o comando abaixo 
+Para configurar o projeto o pré-requisito é possuir instalado o node js e react js depois rode o comando oabaixo 
 * npm
   ```sh
   npm install npm@latest -g
