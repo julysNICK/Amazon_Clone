@@ -11,7 +11,7 @@
   <summary>Tabela de conteúdos</summary>
   <ol>
     <li>
-      <a href="#✅-Sobre-o-projeto">Sobre o projeto</a>
+      <a href="#Sobre-o-projeto">Sobre o projeto</a>
       <ul>
         <li><a href="#Tecnologias">Tecnologias</a></li>
       </ul>
