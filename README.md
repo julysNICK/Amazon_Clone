@@ -28,7 +28,7 @@
   </ol>
 </details>
 
-## ✅ Sobre o projeto
+##Sobre o projeto
 
 O projeto como dito lá em cima foi feito com intuito de colocar em prática os meus conhecimentos sobre react(javascript) e node js(javascript) nesse projeto você vai observar os seguintes tópicos na sua criação:
 
@@ -49,7 +49,7 @@ Node js
 * uso do consign
 * etc.
 
- ### ✅ Features
+ ###  Features
 
 - [x] Cadastro de usuário
 
@@ -65,11 +65,11 @@ Node js
 
 - [x] Stripper adicionado
 
-## ✅ Começando
+## Começando
   
   Siga as instruções abaixo para que consiga configurar o projeto localmente.
 
-### ✅ Pré-requisito
+### Pré-requisito
 
 Para configurar o projeto o pré-requisito é possuir instalado o node js e react js depois rode o comando oabaixo 
 * npm
@@ -77,7 +77,7 @@ Para configurar o projeto o pré-requisito é possuir instalado o node js e reac
   npm install npm@latest -g
   ```
 
-### ✅ Instalação
+###  Instalação
 
 1. Clone the repo
    ```sh
@@ -96,7 +96,7 @@ Essa aplicação foi construída com as seguintes tecnologias:
 * [Reactjs](https://pt-br.reactjs.org/)
 * [Node](https://nodejs.org/en/)
 
-## ✅ Demonstração
+##  Demonstração
 
 Home.js
 
@@ -116,7 +116,7 @@ Pagamento.js
 <!-- LICENSE -->
 
 <!-- CONTACT -->
-## ✅ Contato
+##  Contato
 Email: julysmartins54@gmail.com
 
 linkedin:www.linkedin.com/in/julys-martins-2558651a3
